@@ -1,6 +1,4 @@
 fsdfwsefwefswef
-<<<<<<< HEAD
 hello2
-=======
 wdwfdaqwFAEFESAGFS
->>>>>>> 0884bba (new file)
+
